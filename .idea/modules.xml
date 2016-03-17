@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Modules/LegacyTest/LegacyA/LegacyA.iml" filepath="$PROJECT_DIR$/../Modules/LegacyTest/LegacyA/LegacyA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LegacyTest/LegacyA/LegacyA.iml" filepath="$PROJECT_DIR$/LegacyTest/LegacyA/LegacyA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Modules/LegacyTest/LegacyB/LegacyB.iml" filepath="$PROJECT_DIR$/../Modules/LegacyTest/LegacyB/LegacyB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LegacyTest/LegacyB/LegacyB.iml" filepath="$PROJECT_DIR$/LegacyTest/LegacyB/LegacyB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Modules/LegacyTest/LegacyTest.iml" filepath="$PROJECT_DIR$/../Modules/LegacyTest/LegacyTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LegacyTest/LegacyTest.iml" filepath="$PROJECT_DIR$/LegacyTest/LegacyTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Modules/NotificationsTest/NotificationsA/NotificationsA.iml" filepath="$PROJECT_DIR$/../Modules/NotificationsTest/NotificationsA/NotificationsA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotificationsTest/NotificationsA/NotificationsA.iml" filepath="$PROJECT_DIR$/NotificationsTest/NotificationsA/NotificationsA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Modules/NotificationsTest/NotificationsB/NotificationsB.iml" filepath="$PROJECT_DIR$/../Modules/NotificationsTest/NotificationsB/NotificationsB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotificationsTest/NotificationsB/NotificationsB.iml" filepath="$PROJECT_DIR$/NotificationsTest/NotificationsB/NotificationsB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Modules/NotificationsTest/NotificationsTest.iml" filepath="$PROJECT_DIR$/../Modules/NotificationsTest/NotificationsTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotificationsTest/NotificationsTest.iml" filepath="$PROJECT_DIR$/NotificationsTest/NotificationsTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Modules/PlatformTest/PlatformA/PlatformA.iml" filepath="$PROJECT_DIR$/../Modules/PlatformTest/PlatformA/PlatformA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlatformTest/PlatformA/PlatformA.iml" filepath="$PROJECT_DIR$/PlatformTest/PlatformA/PlatformA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Modules/PlatformTest/PlatformB/PlatformB.iml" filepath="$PROJECT_DIR$/../Modules/PlatformTest/PlatformB/PlatformB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlatformTest/PlatformB/PlatformB.iml" filepath="$PROJECT_DIR$/PlatformTest/PlatformB/PlatformB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Modules/PlatformTest/PlatformTest.iml" filepath="$PROJECT_DIR$/../Modules/PlatformTest/PlatformTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlatformTest/PlatformTest.iml" filepath="$PROJECT_DIR$/PlatformTest/PlatformTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RentSenseTest.iml" filepath="$PROJECT_DIR$/RentSenseTest.iml" />
+    </modules>
+  </component>
+</project>
