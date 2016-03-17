@@ -14,7 +14,9 @@
     </modules>
 
     <scm>
-        <developerConnection></developerConnection>
+        <url>https://github.com/DuncanFox/Rentsense</url>
+        <connection>scm:git:git://github.com/DuncanFox/Rentsense.git</connection>
+        <developerConnection>scm:git:git@github.com:DuncanFox/Rentsense.git</developerConnection>
     </scm>
     <build>
         <plugins>
