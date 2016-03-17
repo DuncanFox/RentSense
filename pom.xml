@@ -4,7 +4,7 @@
 
     <groupId>com.mobysoft</groupId>
     <artifactId>RentSenseTest</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
@@ -17,7 +17,8 @@
         <url>https://github.com/DuncanFox/Rentsense</url>
         <connection>scm:git:git://github.com/DuncanFox/Rentsense.git</connection>
         <developerConnection>scm:git:git@github.com:DuncanFox/Rentsense.git</developerConnection>
-    </scm>
+      <tag>20160317-Release</tag>
+  </scm>
     <build>
         <plugins>
             <plugin>
